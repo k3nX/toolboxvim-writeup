@@ -98,7 +98,7 @@ You can use Esc key to change command mode
    Answer: P
    
 #6 Question:How do we cut a line?
-   Answer: d
+   Answer: dd
    
 #7 Question:How do we cut two lines?
    Answer: 2dd
